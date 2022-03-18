@@ -1,2 +1,5 @@
 IPK semester 1: 3.9
 IPK semester 2: 3.87
+
+IPK semester 3: 3.88
+IPK semester 4: 0
